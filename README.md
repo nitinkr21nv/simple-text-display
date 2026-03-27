@@ -18,4 +18,5 @@ This project is a simple text display webpage built using HTML and JavaScript. T
 
 ## Author
 **Nitin Kumar**
+
 Made with &hearts; by **Nitin Kumar**
